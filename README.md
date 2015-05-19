@@ -1,4 +1,4 @@
-Code for HW9 from CS170, Fall 2014.
+**A Simulation of PCR**
 
 Given a series of DNA sequences that overlap (mimicking what one might get out of PCR), the code reconstructs the original DNA sequence.
 
